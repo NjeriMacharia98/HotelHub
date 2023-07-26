@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-link to my backend API:https://github.com/NjeriMacharia98/phase-3-sinatra-react-project
+link to my backend API: https://github.com/NjeriMacharia98/phase-3-sinatra-react-project
 
 In the project directory, you can run:
 
